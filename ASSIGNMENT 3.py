@@ -27,9 +27,8 @@ print("*" * 160)
 print("QUESTION 2")
 
 #TAKING INPUT OF YEAR FROM THE USER AND CHECKING IF ITS A LEAP YEAR OR NOT.
-year=int(input("INPUT A YEAR:"))
+year=int(input("INPUT A YEAR IN THE RANGE 1800-2025:"))
 
-for year in range(1800,2025):
 if(year % 400==0):
     leap_year=True
 elif(year % 100==0):
