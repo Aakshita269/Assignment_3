@@ -30,9 +30,9 @@ USING WHILE LOOP
 USING RECURSION
      1 
     1 1 
-   1 1 1 
-  1 1 1 1 
- 1 1 1 1 1 
+   1 2 1 
+  1 3 3 1 
+ 1 4 6 4 1 
 
 
 ****************************************************************************************************************************************************************
@@ -51,14 +51,14 @@ f.) HASH VALUE OF THE MAX VALUE FROM THE ABOVE SET: 11
 ****************************************************************************************************************************************************************
 QUESTION 4
 OBJECT CREATED
-THE NAME OF THE STUDENT IS {student1.name} AND SID IS {student1.roll_no}.
+THE NAME OF THE STUDENT IS AAKSHITA AND SID IS 21104005.
 OBJECT DESTROYED
 
 
 ****************************************************************************************************************************************************************
 QUESTION 5
 PART a
-THE UPDATED SALARY OF {employee1.name} IS {employee1.salary}
+THE UPDATED SALARY OF MEHAK IS 70000
 PART b
 RECORD OF VIREN DELETED 
 
